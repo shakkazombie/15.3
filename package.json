@@ -1,0 +1,23 @@
+{
+    "name": "15.3",
+    "version": "1.0.0",
+    "description": "Babel- exercise",
+    "main": "index.js",
+    "scripts": {
+        "start": "babel script.js --watch --out-file script-compiled.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shakkazombie/15.3.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/shakkazombie/15.3/issues"
+    },
+    "homepage": "https://github.com/shakkazombie/15.3#readme",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-latest": "^6.24.1"
+    }
+}
